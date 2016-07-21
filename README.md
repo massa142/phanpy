@@ -17,5 +17,5 @@
 ```
 
 ## Inspiration
-https://github.com/haskellcamargo/sudowoodo
+https://github.com/haskellcamargo/sudowoodo 
 https://github.com/jcn/cowsay-py
