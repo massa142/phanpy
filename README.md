@@ -5,6 +5,8 @@
 
 ## Usage
 `$ python phan.py [message]`
+
+```
   ____________________________
 < I can't wait for Pokémon GO >
   ----------------------------
@@ -12,7 +14,7 @@
           \ ｜・ Ｕ     |
             ｜|(ﾉ       |つ
             L||_|￣ ￣|_|
-
+```
 
 ## Inspiration
 https://github.com/haskellcamargo/sudowoodo
